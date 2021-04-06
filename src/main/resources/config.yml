@@ -1,0 +1,13 @@
+mysqlIP: "127.0.0.1"
+mysqlPort: "3306"
+mysqlDB: "database"
+mysqlTable: "sid"
+mysqlUser: "root"
+mysqlPassword: "heslo"
+
+pridelitPermission: "trackingsid.pridelit"
+overitPermission: "trackingsid.overit"
+changeStatusPermission: "trackingsid.changestatus"
+
+blockeditems:
+  - "§ctest"

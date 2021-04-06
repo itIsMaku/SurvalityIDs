@@ -1,0 +1,20 @@
+main: maku.survality.ids.App
+name: SurvalityIDs
+version: 1.0
+api-version: 1.16
+author: itIsMaku
+description: SID plugin for server Survality.cz
+database: true
+website: www.maku.website
+
+commands:
+  pridelit:
+    description: Přidělí na item v ruce SID
+  overit:
+    description: Ověří uvedené SID
+  changestatus:
+    description: Přepne status uvedeného SID
+  generatehero:
+    description: Vygeneruje HERO s SID
+  generateadventurer:
+    description: Vygeneruje ADVENTURER s SID

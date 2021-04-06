@@ -1,0 +1,18 @@
+main: maku.survality.ids.App
+name: SurvalityIDs
+version: 1.0
+api-version: 1.16
+author: itIsMaku
+description: SID plugin
+database: true
+website: www.maku.website
+
+commands:
+  track:
+    description: Add SID to item
+  verify:
+    description: Verify current SID
+  changestatus:
+    description: Change status of SID
+  generateexample:
+    description: Generate example item

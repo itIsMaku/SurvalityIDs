@@ -1,0 +1,14 @@
+mysqlIP: "127.0.0.1"
+mysqlPort: "3306"
+mysqlDB: "survality"
+mysqlTable: "sid"
+mysqlUser: "root"
+mysqlPassword: "heslo"
+
+pridelitPermission: "survality.pridelit"
+overitPermission: "survality.overit"
+changeStatusPermission: "survality.changestatus"
+
+zabavovac:
+  - "§eKompletní balíček §6§lADVENTURER"
+  - "§6Kompletní balíček §e§lHERO"
